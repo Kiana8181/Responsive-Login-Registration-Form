@@ -12,6 +12,6 @@
 
 ## About The Project
 
-![Video Preview](preview.webm)
+![Video Preview](/preview.webm)
 
 Responsive and Animated Login and Registration Form Using HTML, CSS, JavaScript
